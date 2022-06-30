@@ -1,4 +1,4 @@
-def projectName = 'products-demo'
+def projectName = 'react-prog'
 def version = "0.0.${currentBuild.number}"
 def dockerImageTag = "${projectName}:${version}"
 
