@@ -7,7 +7,7 @@ pipeline {
   stages {
     stage('Build Container') {
       steps {
-        sh "docker build -t react_spotify:latest ."
+        sh "docker build -t ${dockerImageTag} ."
       }
     }
 
