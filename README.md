@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 ### View at: https://ankityande.github.io/ReactSpotifyPlayer/
+```diff
+- NOTE: The backend of this webpage is no longer active as Heroku ended their free tier
+```
 
 Backend server code: https://github.com/AnkitYande/Spotify-API
 
