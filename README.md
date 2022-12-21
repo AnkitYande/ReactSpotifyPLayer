@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React Spotify Player
 
 ### View at: https://ankityande.github.io/ReactSpotifyPlayer/
 ```diff
